@@ -1,0 +1,6 @@
+E:\Codes\C#\MFrameWork\MTools\MLogTool\bin\Debug\MLogTool.dll
+E:\Codes\C#\MFrameWork\MTools\MLogTool\bin\Debug\MLogTool.pdb
+E:\Codes\C#\MFrameWork\MTools\MLogTool\obj\Debug\MLogTool.csprojAssemblyReference.cache
+E:\Codes\C#\MFrameWork\MTools\MLogTool\obj\Debug\MLogTool.csproj.CoreCompileInputs.cache
+E:\Codes\C#\MFrameWork\MTools\MLogTool\obj\Debug\MLogTool.dll
+E:\Codes\C#\MFrameWork\MTools\MLogTool\obj\Debug\MLogTool.pdb
