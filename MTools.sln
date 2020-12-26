@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLogTool", "MLogTool\MLogTool.csproj", "{3A09FEBD-F445-4B4A-ABAF-757410366B94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNet", "MNet\MNet.csproj", "{B6C6620E-F9E9-4D54-81D7-7770FC376393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A09FEBD-F445-4B4A-ABAF-757410366B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A09FEBD-F445-4B4A-ABAF-757410366B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A09FEBD-F445-4B4A-ABAF-757410366B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A09FEBD-F445-4B4A-ABAF-757410366B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C6620E-F9E9-4D54-81D7-7770FC376393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C6620E-F9E9-4D54-81D7-7770FC376393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C6620E-F9E9-4D54-81D7-7770FC376393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C6620E-F9E9-4D54-81D7-7770FC376393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
