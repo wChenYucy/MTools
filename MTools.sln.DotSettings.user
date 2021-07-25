@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fmumu_002FCodes_002FC_0023_002FMFrameWork_002FMTools_002Flibs_002Fprotobuf_002Dnet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fmumu_002FCodes_002FC_0023_002FMFrameWork_002FMTools_002FNetAsyncCore_002Fbin_002FDebug_002FNetAsyncCore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fmumu_002FCodes_002FC_0023_002FMFrameWork_002FMTools_002FNetFrameworkCore_002Fbin_002FDebug_002FDetailLogTool_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fmumu_002FCodes_002FC_0023_002FMFrameWork_002FMTools_002FNetFrameworkCore_002Fbin_002FDebug_002FNetFrameworkCore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/mumu/Codes/C#/MFrameWork/MTools/libs/protobuf-net.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

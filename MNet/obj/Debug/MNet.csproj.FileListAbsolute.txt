@@ -1,5 +1,0 @@
-/Volumes/Datas/Codes/C#/MFrameWork/MTools/MNet/bin/Debug/MNet.dll
-/Volumes/Datas/Codes/C#/MFrameWork/MTools/MNet/bin/Debug/MNet.pdb
-/Volumes/Datas/Codes/C#/MFrameWork/MTools/MNet/obj/Debug/MNet.csproj.CoreCompileInputs.cache
-/Volumes/Datas/Codes/C#/MFrameWork/MTools/MNet/obj/Debug/MNet.dll
-/Volumes/Datas/Codes/C#/MFrameWork/MTools/MNet/obj/Debug/MNet.pdb
