@@ -4,3 +4,9 @@
 /Users/mumu/Codes/C#/MFrameWork/MTools/DetailLogTool/obj/Debug/DetailLogTool.csproj.CoreCompileInputs.cache
 /Users/mumu/Codes/C#/MFrameWork/MTools/DetailLogTool/obj/Debug/DetailLogTool.dll
 /Users/mumu/Codes/C#/MFrameWork/MTools/DetailLogTool/obj/Debug/DetailLogTool.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/bin/Debug/DetailLogTool.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/bin/Debug/DetailLogTool.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/obj/Debug/DetailLogTool.csprojAssemblyReference.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/obj/Debug/DetailLogTool.csproj.CoreCompileInputs.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/obj/Debug/DetailLogTool.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/DetailLogTool/obj/Debug/DetailLogTool.pdb

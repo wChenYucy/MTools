@@ -1,0 +1,6 @@
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/bin/Debug/CyTimer.exe
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/bin/Debug/CyTimer.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/obj/Debug/CyTimer.csprojAssemblyReference.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/obj/Debug/CyTimer.csproj.CoreCompileInputs.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/obj/Debug/CyTimer.exe
+/Users/chenyu/Codes/Unity/Frameworks/MTools/CyTimer/obj/Debug/CyTimer.pdb

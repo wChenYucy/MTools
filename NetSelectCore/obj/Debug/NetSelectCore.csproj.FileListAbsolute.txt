@@ -8,3 +8,13 @@
 /Users/mumu/Codes/C#/MFrameWork/MTools/NetSelectCore/obj/Debug/NetSelectCore.csproj.CopyComplete
 /Users/mumu/Codes/C#/MFrameWork/MTools/NetSelectCore/obj/Debug/NetSelectCore.dll
 /Users/mumu/Codes/C#/MFrameWork/MTools/NetSelectCore/obj/Debug/NetSelectCore.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/bin/Debug/NetSelectCore.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/bin/Debug/NetSelectCore.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/bin/Debug/DetailLogTool.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/bin/Debug/protobuf-net.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/bin/Debug/DetailLogTool.pdb
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/obj/Debug/NetSelectCore.csprojAssemblyReference.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/obj/Debug/NetSelectCore.csproj.CoreCompileInputs.cache
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/obj/Debug/NetSelectCore.csproj.CopyComplete
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/obj/Debug/NetSelectCore.dll
+/Users/chenyu/Codes/Unity/Frameworks/MTools/NetSelectCore/obj/Debug/NetSelectCore.pdb
